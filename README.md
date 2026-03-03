@@ -6,7 +6,7 @@
 > Edge-powered AI coaching that analyzes your game live on the court — instant feedback, zero cloud delay.
 
 [![iOS](https://img.shields.io/badge/iOS-11.0+-black?logo=apple)](https://apps.apple.com)
-[![Platform](https://img.shields.io/badge/Platform-iPhone%20%7C%20iPad%20%7C%20Mac-green)](https://apps.apple.com)
+[![Platform](https://img.shields.io/badge/Platform-iPhone%20%7C%20iPad-green)](https://apps.apple.com)
 [![Edge AI](https://img.shields.io/badge/Powered%20By-Edge%20AI-blue)](https://apps.apple.com)
 
 </div>
@@ -56,8 +56,7 @@ CoachAI is developed and maintained by the **Ubiquitous Networking and Intellige
 ## Requirements
 
 - iOS 11.0 or later
-- macOS 10.13 or later
-- Compatible with iPhone, iPad, and Mac
+- Compatible with iPhone and iPad
 
 ---
 
