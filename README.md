@@ -17,17 +17,17 @@
 
 <!-- Row 1: Hero screenshot (large) + Training screen -->
 <div align="center">
-<img src="screenshots/screenshot_1.png" width="45%" alt="Real-Time Stroke Analysis"/>
-<img src="screenshots/screenshot_2.png" width="45%" alt="Training Lessons"/>
+<img src="screenshots/1_1242x2688.png" width="45%" alt="Real-Time Stroke Analysis"/>
+<img src="screenshots/2_1242x2688.png" width="45%" alt="Training Lessons"/>
 </div>
 
 <br/>
 
 <!-- Row 2: Progress + Lesson Complete + On-Device Privacy -->
 <div align="center">
-<img src="screenshots/screenshot_3.png" width="30%" alt="Progress Tracking"/>
-<img src="screenshots/screenshot_4.png" width="30%" alt="Lesson Complete"/>
-<img src="screenshots/screenshot_5.png" width="30%" alt="On-Device Privacy"/>
+<img src="screenshots/3_1242x2688.png" width="30%" alt="Progress Tracking"/>
+<img src="screenshots/4_1242x2688.png" width="30%" alt="Lesson Complete"/>
+<img src="screenshots/5_1242x2688.png" width="30%" alt="On-Device Privacy"/>
 </div>
 
 ---
